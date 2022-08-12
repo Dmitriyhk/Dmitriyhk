@@ -1,4 +1,4 @@
-<h3 align="center">Привет, меня зовут Дима. Я начинающий Frontend-разработчик.</h3>
+<h3 align="center">Привет, меня зовут Дима. Я Frontend-разработчик.</h3>
 <p align="center">
 <a href="https://www.codewars.com/users/Dmitriyhk" target="blank"><img align="center" src="https://www.codewars.com/users/Dmitriyhk/badges/large" alt="dmitriyhk"/></a>
 </p>
